@@ -211,7 +211,7 @@ margin-right: 0em;
   display: none;
 }
 nav{
-  display: ;
+  display:none ;
 }
 .header-title{
   font-size: 3em;
@@ -224,7 +224,7 @@ nav{
       top:-30em;
 }
 .about img{
-  display: 
+  display: none
 }
 .about-content{
   left:2em;
