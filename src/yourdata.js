@@ -13,7 +13,7 @@ export default
         
         contactEmail:'sng.rv07@gmali.com',
        
-        abouttext: "1.5+ years work experience as a software test engineer in an agile development environment for Websites and Native mobile application Uses different automation tools including  Selenium ,Appium, JIRA ,Postman, JMeter, API performance, Katalon Recorder,Jenkins,TestNG, DataDriven Testing(Apache POI) , Fiddler . Writes release notes, acceptance tests plans,Test Suits,Test Cases ,Traceability matrices, and other documents using Excel, Word and Outlook. Works with SQL, and Access Database",
+        abouttext: "1.5+ years work experience as a software test engineer in an agile development environment for Websites and Native mobile application Uses different automation tools including  Selenium ,Appium, JIRA ,Postman, JMeter, API performance, Katalon Recorder,Jenkins,TestNG, DataDriven Testing(Apache POI) , Fiddler . Writes release notes, acceptance tests plans,Test Suits,Test Cases ,Traceability matrices, and other documents using Excel, Word and Outlook. Works with SQL, MongoDB and Access Database",
         aboutImage:'/images/RV.jpg',
              ShowAboutImage:true,       
        projects:[
