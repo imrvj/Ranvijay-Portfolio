@@ -2,7 +2,7 @@
 export default
     {
         
-        name :'<Ranvijay Singh/>',
+        name :'Ranvijay Singh',
         headerTagline: [
                         'Hi 👋 You found me! I am Ranvijay.',
                        
